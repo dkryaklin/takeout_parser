@@ -1,0 +1,17 @@
+{
+  "name": "takeout_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dist-exiftool": "^10.53.0",
+    "linebyline": "^1.3.0",
+    "moment": "^2.24.0",
+    "node-exiftool": "^2.3.0"
+  }
+}
